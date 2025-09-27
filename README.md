@@ -1,2 +1,2 @@
 # dualroute-web
-Code for https://dualroute.baulab.info
+Code for https://arithmetic.baulab.info
